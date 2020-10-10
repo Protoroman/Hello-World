@@ -1,2 +1,2 @@
 # Hello-World
-new repository
+Hi humanoids, how is going? so here we start ours jorney.
